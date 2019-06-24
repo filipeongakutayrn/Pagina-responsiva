@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#login {
+    text-align: center;
+    margin-left: 470px;
+    padding: 350px;
+    
+    
+}
+
+#textusuario {
+    border-radius: 10px;
+    width: 210px;
+    height: 25px;
+    border-radius: 11px;
+    border-color: aqua;
+    text-align: left;
+    color: white;
+}
+
+#senha {
+    border-radius: 10px;
+    width: 210px;
+    height: 25px;
+    border-radius: 11px;
+    border-color: aqua;
+    text-align: left;
+}
+
+#labelusuario {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    margin-left: 30px;
+    color: white;
+}
+
+#labelsenha {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    margin-left: 40px;
+    color: white;
+}
+
+#btacessar {
+    background: white;
+    border-color:rgb(255, 255, 255);
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
+    margin-left: 50px;
+    font-size: 18pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 3px 3px 3px 2px rgb(38, 107, 107);
+    animation-delay: 3ms;
+    color: black;
+    
+    
+}
+
+#btreset {
+    background: white;
+    border-color:rgb(255, 255, 255);
+    border-radius: 50%;
+    width: 100px;
+    height: 40px;
+    margin-left: 50px;
+    font-size: 18pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 3px 3px 3px 2px rgb(38, 107, 107);
+    animation-delay: 3ms;
+    color: black;
+    overflow: hidden;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho {
+    background-color: yellow;
+    width: 500px;
+    height: 50px;
+    margin: 15px;
+}
+
+#corpo {
+    background-color:lightblue;
+    width: 500px;
+    height: 600px;
+    margin: 15px;
+}
+
+#rodape {
+    background-color: yellow;
+    width: 500px;
+    height: 50px;
+    margin: 15px;
+}
+
+
+#lbnome {
+    color: black;
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+#nome {
+    border-radius: 5px;
+    height: 20px;
+    width: 335px;
+    margin: 25px;
+}
+
+#lbemail {
+    color: black;
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+#email {
+    border-radius: 5px;
+    height: 20px;
+    width: 320px;
+    margin: 25px;
+}
+
+#lbassunto {
+    color: black;
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+#assunto {
+    border-radius: 5px;
+    height: 20px;
+    width: 320px;
+    margin: 25px;
+}
+
+#lbmenssagem {
+    color: black;
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+#menssagem {
+border-radius: 5px;
+height: 150px;
+width: 400px;
+margin-left: 45px;
+
+}
+
+#newreset {
+    background: yellow;
+    border-radius: 5px;
+    width: 225px;
+    height: 25px;
+    font-size: 14px;
+}
